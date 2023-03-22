@@ -1,0 +1,23 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic_tac_toe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeng07/tic_tac_toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeng07/tic_tac_toe/issues"
+  },
+  "homepage": "https://github.com/mikeng07/tic_tac_toe#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquerry": "^0.0.1-security"
+  }
+}
